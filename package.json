@@ -24,11 +24,11 @@
     "test-clear": "jest --clearCache && rm -rf ./playwright/.cache",
     "prepare-playwright": "rm -rf ./src-jsx && gulp prepare-playwright"
   },
-  "author": "Kiran Abburi",
+  "author": "danjojojo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akiran/react-slick.git"
+    "url": "git+https://github.com/danjojojo/react-slick.git"
   },
   "keywords": [
     "slick",
